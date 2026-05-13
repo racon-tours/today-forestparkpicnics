@@ -1,0 +1,11 @@
+/* FPP brand overrides — cream / gold / slate blue */
+:root {
+  --bg: #EFEBCE;
+  --surface: #FFFFFF;
+  --text: #1C1C1C;
+  --text-muted: #6B6B6B;
+  --accent: #628395;
+  --accent-strong: #4A6877;
+  --border: #D6CE93;
+  --done-bg: #E8E2BC;
+}
